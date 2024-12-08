@@ -14,10 +14,6 @@ Neste trabalho prático foi:
 
 ## Classe Compactador
 
-* ### Atributos:
-
-
-
 * ### Métodos:
 
 - descompacta(String versao): Realiza a descompactação de arquivos de um backup, extraindo os dados e salvando-os na pasta dados. Utiliza a classe LZW para decodificar os dados.
@@ -78,7 +74,7 @@ Foi um TP mais tranquilo de fazer, foi divertido. O único problema que acontece
 - Há uma rotina de compactação usando o algoritmo LZW para fazer backup dos arquivos? sim
 - Há uma rotina de descompactação usando o algoritmo LZW para recuperação dos arquivos? sim
 - O usuário pode escolher a versão a recuperar? sim
-- Qual foi a taxa de compressão alcançada por esse backup? (Compare o tamanho dos arquivos compactados com os arquivos originais) sim
+- Qual foi a taxa de compressão alcançada por esse backup? (Compare o tamanho dos arquivos compactados com os arquivos originais) 1,04
 - O trabalho está funcionando corretamente? sim
 - O trabalho está completo? sim
 - O trabalho é original e não a cópia de um trabalho de um colega? sim
