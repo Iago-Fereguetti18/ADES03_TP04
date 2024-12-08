@@ -16,11 +16,7 @@ Neste trabalho prático foi:
 
 * ### Atributos:
 
-- 
 
-* ### Construtores:
-
-- 
 
 * ### Métodos:
 
@@ -33,9 +29,6 @@ Neste trabalho prático foi:
 
 - public static final int BITS_POR_INDICE: Define o número de bits por índice, utilizado para limitar o tamanho do dicionário durante a codificação e decodificação.
 
-* ### Construtores:
-
-- 
 
 * ### Métodos:
 
@@ -70,9 +63,6 @@ Neste trabalho prático foi:
 
 - Scanner console: Scanner usado para capturar entradas do usuário no console.
 
-* ### Construtores:
-
-- 
 
 * ### Métodos:
 
@@ -81,7 +71,7 @@ Neste trabalho prático foi:
 - void carregarBackup(): Exibe uma lista de backups disponíveis no diretório ./backups
 
 ## Experiência
-
+Foi um TP mais tranquilo de fazer, foi divertido. O único problema que aconteceu não está relacionado ao TP e sim ao GitHUb, mas também foi tranquilo de resolver. 
 
 ## Perguntas
 
