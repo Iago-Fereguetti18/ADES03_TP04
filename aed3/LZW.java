@@ -148,10 +148,10 @@ public class LZW {
         }
 
         // Imprime os índices
-        System.out.println("Índices: ");
-        System.out.println(saida);
-        System.out.println("Vetor de bits: ");
-        System.out.println(bits);
+        // System.out.println("Índices: ");
+        // System.out.println(saida);
+        // System.out.println("Vetor de bits: ");
+        // System.out.println(bits);
 
         // Retorna o vetor de bits
         return bits.toByteArray();
